@@ -1,0 +1,26 @@
+<div>
+  <label>Book:</label>
+  <select [(ngModel)]="selectedBook">
+    <option value=""></option>
+    <option *ngFor="let book of books" [ngValue]="book">
+      {{book.bookname}}
+    </option>
+  </select><br>
+
+  <label>Client:</label>
+  <select [(ngModel)]="selectedClient">
+    <option value=""></option>
+    <option *ngFor="let client of clients" [ngValue]="client">
+      {{client.name}}
+    </option>
+  </select><br>
+
+  <label>Quantity:</label>
+  <input #quantity><br>
+</div>
+
+<div>
+  <button (click)="save(selectedBook,selectedClient,quantity.value)">Save
+  </button>
+</div>
+

@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Gradle : bookstore_lab10_12 : bookstore-web-1.0-SNAPSHOT.war (exploded)" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="717c29d5-2903-4278-a158-6eeb3891fea4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/catalog-core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/catalog-core/build/" />
+    <ignored path="$PROJECT_DIR$/catalog-core/out/" />
+    <ignored path="$PROJECT_DIR$/catalog-web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/catalog-web/build/" />
+    <ignored path="$PROJECT_DIR$/catalog-web/out/" />
+    <ignored path="$PROJECT_DIR$/bookstore-core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/bookstore-core/build/" />
+    <ignored path="$PROJECT_DIR$/bookstore-core/out/" />
+    <ignored path="$PROJECT_DIR$/bookstore-web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/bookstore-web/build/" />
+    <ignored path="$PROJECT_DIR$/bookstore-web/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookstore@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookstore@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookstore@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bookstore: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="catalog-1-list" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="catalog-1-list" type="f1a62948:ProjectNode" />
+                <item name="catalog-core" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="catalog-1-list" type="f1a62948:ProjectNode" />
+                <item name="catalog-core" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="catalog-1-list" type="f1a62948:ProjectNode" />
+                <item name="catalog-web" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="catalog-1-list" type="f1a62948:ProjectNode" />
+                <item name="catalog-web" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="catalog-1-list" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add st</find>
+      <find>add s</find>
+      <find>&quot;port&quot;:</find>
+      <find>postgre</find>
+      <find>Student</find>
+      <find>Access-Control-Allow-Origin</find>
+      <find>cors</find>
+      <find>student</find>
+      <find>client</find>
+      <find>Discipline</find>
+      <find>book</find>
+      <find>localhost</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>book</replace>
+      <replace>client</replace>
+      <replace>purchase</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\timantim\Documents\GitHub\catalog-1-list</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/catalog-web/src/main/webapp" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/catalog-core/build.gradle" />
+        <option value="$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/model/Book.java" />
+        <option value="$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/model/BaseEntity.java" />
+        <option value="$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/model/Client.java" />
+        <option value="$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/repository/ClientRepository.java" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/dto/ClientDto.java" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/clients/shared/client.service.js" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/clients/client-new/client-new.component.html" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/clients/client-new/client-new.component.ts" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/clients/shared/client.model.ts" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/clients/client-list/client-list.component.ts" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/clients/client-list/client-list.component.html" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/clients/clients.component.html" />
+        <option value="$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/service/ClientServiceImpl.java" />
+        <option value="$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/service/ClientService.java" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/clients/clients.component.ts" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/clients/client-detail/client-detail.component.html" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/clients/shared/client.service.ts" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/clients/client-detail/client-detail.component.ts" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/book-detail/book-detail.component.html" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/shared/book.service.ts" />
+        <option value="$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/service/BookService.java" />
+        <option value="$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/service/BookServiceImpl.java" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/controller/BookController.java" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/book-detail/book-detail.component.ts" />
+        <option value="$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/repository/PurchaseRepository.java" />
+        <option value="$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/service/PurchaseService.java" />
+        <option value="$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/service/PurchaseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/controller/ClientController.java" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/dto/PurchaseDto.java" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/converter/ClientConverter.java" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/converter/PurchaseConverter.java" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/controller/PurchaseController.java" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/shared/purchase.model.ts" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/shared/purchase.service.ts" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/shared/purchase.service.js" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchases.component.html" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchases.component.ts" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-detail/purchase-detail.component.ts" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-detail/purchase-detail.component.html" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-list/purchase-list.component.ts" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-new/purchase-new.component.html" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-new/purchase-new.component.ts" />
+        <option value="$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/model/Purchase.java" />
+        <option value="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-list/purchase-list.component.html" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/bookstore-web/src/main/java/web/config/AppLocalConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="45" />
+    <option name="y" value="25" />
+    <option name="width" value="1320" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bookstore_lab10_12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore_lab10_12" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore_lab10_12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore_lab10_12" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore_lab10_12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore_lab10_12" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore_lab10_12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore_lab10_12" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore_lab10_12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore_lab10_12" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore_lab10_12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore_lab10_12" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore_lab10_12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore_lab10_12" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore_lab10_12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore_lab10_12" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore_lab10_12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore_lab10_12" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore_lab10_12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore_lab10_12" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore_lab10_12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore_lab10_12" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore_lab10_12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore_lab10_12" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore_lab10_12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore_lab10_12" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bookstore-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql&#10;mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559304307704" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/catalog-web/src/main/webapp/node_modules/protractor" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36576238" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/catalog-web/src/main/webapp/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\timantim\Documents\GitHub\catalog-1-list\catalog-web\src\main\webapp\src\app\purchases\shared" />
+      <recent name="$PROJECT_DIR$/catalog-web/src/main/webapp/src/app" />
+      <recent name="$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/dto" />
+      <recent name="$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/converter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ro.ubb.catalog.core.service" />
+      <recent name="ro.ubb.catalog.core.repository" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ro.ubb.catalog.web.dto" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 12 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 12 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="catalog-web_main" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server (webapp)">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2E Tests (webapp)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/catalog-web/src/main/webapp/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/catalog-web/src/main/webapp/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application (webapp)" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.14" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Gradle___bookstore_lab10_12___bookstore_web_1_0_SNAPSHOT_war__exploded_/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : bookstore_lab10_12 : bookstore-web-1.0-SNAPSHOT.war (exploded)">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Gradle___bookstore_lab10_12___bookstore_web_1_0_SNAPSHOT_war__exploded_" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_catalog-1-ngjpa" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="45267" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : bookstore_lab10_12 : bookstore-web-1.0-SNAPSHOT.war (exploded)" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server (webapp)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/bookstore-web/src/main/webapp/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="node" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Angular Application (webapp)" />
+      <item itemvalue="npm.Angular CLI Server (webapp)" />
+      <item itemvalue="Protractor.E2E Tests (webapp)" />
+      <item itemvalue="Tomcat Server.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="717c29d5-2903-4278-a158-6eeb3891fea4" name="Default" comment="" />
+      <created>1519459701663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519459701663</updated>
+      <workItem from="1519459706848" duration="727000" />
+      <workItem from="1519460538920" duration="159000" />
+      <workItem from="1519460737573" duration="712000" />
+      <workItem from="1519461471515" duration="6584000" />
+      <workItem from="1519468935038" duration="1371000" />
+      <workItem from="1519470368030" duration="1283000" />
+      <workItem from="1519471716955" duration="3088000" />
+      <workItem from="1519821681072" duration="2291000" />
+      <workItem from="1519906975495" duration="1914000" />
+      <workItem from="1519980087071" duration="386000" />
+      <workItem from="1519984558532" duration="74000" />
+      <workItem from="1520101674505" duration="602000" />
+      <workItem from="1520107224572" duration="190000" />
+      <workItem from="1520107467238" duration="260000" />
+      <workItem from="1520142892969" duration="42000" />
+      <workItem from="1521816516804" duration="64000" />
+      <workItem from="1521835929619" duration="2757000" />
+      <workItem from="1521876496386" duration="5558000" />
+      <workItem from="1521885978280" duration="5926000" />
+      <workItem from="1521897401709" duration="3190000" />
+      <workItem from="1522011432795" duration="51000" />
+      <workItem from="1522405800650" duration="98000" />
+      <workItem from="1522405954291" duration="408000" />
+      <workItem from="1522406407082" duration="698000" />
+      <workItem from="1522407356018" duration="193000" />
+      <workItem from="1522591395315" duration="183000" />
+      <workItem from="1522592078556" duration="38000" />
+      <workItem from="1522649272474" duration="2726000" />
+      <workItem from="1522689646309" duration="30000" />
+      <workItem from="1522693810203" duration="13000" />
+      <workItem from="1522757357601" duration="19000" />
+      <workItem from="1522758533379" duration="2117000" />
+      <workItem from="1522762363475" duration="3678000" />
+      <workItem from="1522771275910" duration="630000" />
+      <workItem from="1547151801184" duration="2111000" />
+      <workItem from="1547153977837" duration="1657000" />
+      <workItem from="1547155776987" duration="479000" />
+      <workItem from="1547224465666" duration="234000" />
+      <workItem from="1547239615080" duration="19000" />
+      <workItem from="1555758083857" duration="111000" />
+      <workItem from="1555909805662" duration="3868000" />
+      <workItem from="1555913743306" duration="2661000" />
+      <workItem from="1555930609576" duration="5643000" />
+      <workItem from="1555945235836" duration="4659000" />
+      <workItem from="1555950209932" duration="121000" />
+      <workItem from="1555950344876" duration="19000" />
+      <workItem from="1556005416962" duration="1241000" />
+      <workItem from="1556120187935" duration="1358000" />
+      <workItem from="1556126871550" duration="20000" />
+      <workItem from="1556127588721" duration="1232000" />
+      <workItem from="1557071607156" duration="307000" />
+      <workItem from="1557071945493" duration="9854000" />
+      <workItem from="1557084187257" duration="1799000" />
+      <workItem from="1557086052900" duration="1205000" />
+      <workItem from="1557088612162" duration="6398000" />
+      <workItem from="1557141625708" duration="2134000" />
+      <workItem from="1557145986673" duration="1270000" />
+      <workItem from="1557684646963" duration="113000" />
+      <workItem from="1557693892969" duration="1299000" />
+      <workItem from="1557695795616" duration="2971000" />
+      <workItem from="1557745841876" duration="1301000" />
+      <workItem from="1557752749283" duration="2288000" />
+      <workItem from="1558207997772" duration="5955000" />
+      <workItem from="1558214228265" duration="1793000" />
+      <workItem from="1558262778785" duration="347000" />
+      <workItem from="1558263174165" duration="174000" />
+      <workItem from="1559056071511" duration="124000" />
+      <workItem from="1559129157000" duration="436000" />
+      <workItem from="1559303246768" duration="112000" />
+      <workItem from="1559303476249" duration="837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="E2E_Tests_(webapp) - 2019.04.23 at 10h 44m 02s.xml">
+      <configuration name="E2E Tests (webapp)" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="E2E_Tests_(webapp) - 2019.04.23 at 10h 44m 10s.xml">
+      <configuration name="E2E Tests (webapp)" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="114210000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49570817" visible="true" weight="0.29060403" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Web" order="5" sideWeight="0.5013405" side_tool="true" weight="0.3261745" />
+      <window_info id="Favorites" order="6" sideWeight="0.50429183" side_tool="true" weight="0.25033557" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32841823" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37533513" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297587" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.3297587" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32841823" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.38739946" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3297587" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32707775" />
+      <window_info anchor="bottom" id="TypeScript" order="14" weight="0.3297587" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3230563" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.30130294" />
+      <window_info anchor="bottom" id="Docker" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.24966443" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="CDI" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" weight="0.2576351" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Maven" order="12" />
+      <window_info anchor="right" id="RestServices" order="13" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49570817" visible="true" weight="0.26040268" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Web" order="5" sideWeight="0.5013405" side_tool="true" weight="0.3261745" />
+      <window_info id="Favorites" order="6" sideWeight="0.50429183" side_tool="true" weight="0.25033557" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32841823" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37533513" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297587" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.3297587" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32841823" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.38739946" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3297587" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32707775" />
+      <window_info anchor="bottom" id="TypeScript" order="14" weight="0.3297587" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3230563" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.30130294" />
+      <window_info anchor="bottom" id="Docker" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.24966443" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="CDI" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" weight="0.2576351" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Maven" order="12" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../MPP/catalog-1-list/catalog-web/src/main/webapp/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/catalog-web/src/main/webapp" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/service/PurchaseService.java" />
+    <entry file="file://$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/service/BookService.java" />
+    <entry file="file://$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/service/BookServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/controller/ClientController.java" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/dto/PurchaseDto.java" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/converter/ClientConverter.java" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/converter/PurchaseConverter.java" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/shared/book.model.ts" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/shared/purchase.model.ts" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/shared/book.service.ts" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/shared/purchase.service.js" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/books.component.html" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/books.component.ts" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/book-detail/book-detail.component.css" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-detail/purchase-detail.component.css" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-detail/purchase-detail.component.ts" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/book-detail/book-detail.component.html" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/book-detail/book-detail.component.ts" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/book-list/book-list.component.css" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-list/purchase-list.component.css" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/book-list/book-list.component.html" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-list/purchase-list.component.ts" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/book-new/book-new.component.css" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchases.component.html" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/book-new/book-new.component.html" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/book-new/book-new.component.ts" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchases.component.ts" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/app-routing.module.ts" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/app.component.html" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/shared/purchase.service.ts" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-new/purchase-new.component.html" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-new/purchase-new.component.ts" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.47/90e03b5cec4d45d6051bf18cfdddfdc2d72dc925/mysql-connector-java-5.1.47-sources.jar!/com/mysql/jdbc/MysqlIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3975" selection-start-line="3975" selection-end-line="3975" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/java/ro/ubb/catalog/web/controller/PurchaseController.java" />
+    <entry file="file://$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/service/PurchaseServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/app.module.ts" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/books/book-list/book-list.component.ts" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-detail/purchase-detail.component.html" />
+    <entry file="file://$PROJECT_DIR$/catalog-core/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/src/main/webapp/src/app/purchases/purchase-list/purchase-list.component.html" />
+    <entry file="file://$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/model/Purchase.java" />
+    <entry file="file://$PROJECT_DIR$/catalog-core/src/main/java/ro/ubb/catalog/core/model/Book.java" />
+    <entry file="file://$PROJECT_DIR$/catalog-web/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6bf82654-3a51-4646-a9fe-a92ef92f57c6/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore-core/src/main/java/core/config/CacheConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore-core/src/main/java/core/config/JPAConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-696">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore-web/src/main/java/web/config/Initializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore-web/src/main/java/web/config/AppLocalConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore-web/src/main/java/web/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gradle : ro.ubb.catalog-1-list : catalog-web-1.0-SNAPSHOT.war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36576238" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36576238" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>catalog-1-list|catalog-1-list</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36576238" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36576238" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

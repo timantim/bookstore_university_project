@@ -1,0 +1,15 @@
+<div *ngIf="selectedPurchase">
+  <h2>
+    {{selectedPurchase.id | uppercase}} was selected
+  </h2>
+  <button (click)="gotoDetail()">View Details</button>
+</div>
+
+<h2>Purchases</h2>
+<ol class="purchases">
+  <li *ngFor="let purchase of purchases "
+      [class.selected]="purchase === selectedPurchase"
+      (click)="onSelect(purchase)">
+    {{purchase.client.name}} has purchased {{purchase.quantity}} of {{purchase.book.bookname}}
+  </li>
+</ol>

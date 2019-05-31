@@ -1,0 +1,16 @@
+<div>
+  <label>Bookname:</label>
+  <input #bookname><br>
+
+  <label>Author:</label>
+  <input #author><br>
+
+  <label>Price:</label>
+  <input #price><br>
+</div>
+
+<div>
+  <button (click)="save(bookname.value,author.value,price.value)">Save
+  </button>
+</div>
+
